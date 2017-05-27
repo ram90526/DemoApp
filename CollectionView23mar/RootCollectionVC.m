@@ -25,6 +25,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
+    //klsdnknjfnjsnj
     self.mainImagesArray=[[NSMutableArray alloc] initWithObjects:[[NSMutableArray alloc] init],[[NSMutableArray alloc]init], nil];
     
     self.statusArray=[[NSMutableArray alloc]initWithObjects:[[NSMutableDictionary alloc] init],[[NSMutableDictionary alloc]init], nil];
